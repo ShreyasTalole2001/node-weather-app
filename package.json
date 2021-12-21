@@ -9,7 +9,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "src/app.js"
+    "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
