@@ -1,0 +1,9 @@
+
+
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
